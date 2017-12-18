@@ -2,26 +2,31 @@
 
 first switch
 run 1/1
-runned 1/20
+runned 1/30
 
 second switch
 run 2/2
-runned 3/20
+runned 3/30
 
 third switch
-run 3/3
-runned 6/20
-
-fourth switch
 run 4/4
-runned 10/20
+runned 7/30
+
+third switch
+run 4/4
+runned 7/30
+
+third switch
+run 4/4
+runned 7/30
 
 fivth switch
-run 5/5
-runned 15/20
+run 8/8
+runned 15/30
 
 sixth switch
-run 5/6 runned 20/20
+run 15/16
+runned 30/30
 
 2. **Shortest Process Next**
 
@@ -53,4 +58,4 @@ x/250 = 0.35
 x = 0.35 * 250
 x = 87.5
 
-the largest value for x , in which the system is schedulable, is 87.5 
+the largest value for x , in which the system is schedulable, is 87.5
